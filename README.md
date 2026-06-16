@@ -1,3 +1,3 @@
 # AutoPlay
 
-- If fail to hit on holding floor in `Neo Cosmos DLC` (found this bug in world T4), please set `Hold Tile Behavior` to `No Holding Required` in the game settings.
+- If the mod fail to hit a hold tile in the **Neo Cosmos DLC** (bug in World T4), please change the `Hold Tile Behavior` setting to `No Holding Required`
